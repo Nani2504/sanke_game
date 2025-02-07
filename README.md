@@ -5,6 +5,6 @@ For Running the game:<br>
 Step 1 : Install python in your device<br>
 Step 2 : then type - pip install turtle in your command prompt <br>
 #this will install turtle in your device<br>
-#Running :
+# Running :
 Step 3 : open cmd in directory and type - python main.py<br>
 # Enjoy the game<br>
